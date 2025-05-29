@@ -16,3 +16,6 @@ Error Handling: Includes basic error handling for scenarios like missing fields 
 Modular Code Structure: Organized codebase that separates concerns, making it easier to maintain and scale.
 
 Extensibility: Designed to be easily extendable, allowing for integration with databases, authentication mechanisms, or frontend frameworks in the future.
+
+![image](https://github.com/user-attachments/assets/3688613b-1756-4918-b172-fcde3cb7da97)
+
